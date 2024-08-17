@@ -2,5 +2,5 @@
 
 # See You can See the Screenshots and links to my works here:
 
-![South American region fast food sales](https://docs.google.com/spreadsheets/d/1oh0H_WkgQoPX1MCwFWJzMTCj8Gng4GRW/edit?usp=drive_link&ouid=110770603564580470624&rtpof=true&sd=true)
+![South American region fast food sales](https://drive.google.com/drive/folders/1D5rn3bvwniTbhIjVaocStXHNby7Tmg5o?usp=drive_link)
 
